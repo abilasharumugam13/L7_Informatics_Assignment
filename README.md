@@ -200,7 +200,7 @@ For example, let's confirm if our (Butter Scotch) flavour has been added yet or 
 Output on Command Line Interface(python user.py)
 ![Screenshot (27)](https://github.com/user-attachments/assets/bfebff6a-cc3e-4fa3-b01e-302360e5aff3)
 Add To cart (option )
-![Screenshot 2024-12-09 145613](https://github.com/user-attachments/assets/80a6f15e-035f-4be8-ad43-2e85fd5aad79)
+![Screenshot (28)](https://github.com/user-attachments/assets/7aedff7d-559d-4da9-ac20-929cd3196c9e)
 
 
 
