@@ -1,17 +1,17 @@
-# iceCreamParlour
+# 22I472_Abilash A-L7 InformaticsIntern Assignment-->Application:iceCreamParlour
 
 # 📄 Documentation of the Code :
 ## Overview
-This project is a simple database management system for an ice cream parlour. It uses SQLite to manage data about seasonal flavours, ingredients, customer suggestions, allergens, and a shopping cart. The system is divided into three main parts: database setup (iceCream.py), user interactions (user.py), and management operations (manage.py).
+This project is a simple database management system for an ice cream parlour. It uses "SQLite" to manage data about seasonal flavours, ingredients, customer suggestions, allergens, and a shopping cart. The system is divided into three main parts: database setup (iceCream.py), user interactions (user.py), and management operations (manage.py).
 
-## Files
+## Files and their Features
 ## iceCream.py
 This script sets up the initial database structure and populates it with some initial data.
 
 ### Key Components:
 Database Connection:
 
-Establishes a connection to the SQLite database named iceCreamParlour.db.
+Establishes a connection to the SQLite database named---> iceCreamParlour.db.
 Creates a cursor object for executing SQL commands.
 ### Table Creation:
 
@@ -82,7 +82,7 @@ Run manage.py to allow managers to manage the parlour. They can add new flavours
 Each script provides a menu-driven interface to facilitate interactions, making it easy for users and managers to navigate through the available options.
 
 
-# 🚀 How to use ?
+# 🚀 How to use / Run the Application?
 
 1. Clone the Repository to your system.
 2. ```sh
@@ -135,7 +135,7 @@ Each script provides a menu-driven interface to facilitate interactions, making 
    python mange.py
    ```
    <br>
-# 💻 Test Steps 
+# 💻 Test Steps For Ice Cream Parlour application(Python based)
 
 ### In user.py 
 We observe a menu which looks like : <br>
@@ -153,9 +153,9 @@ We observe a menu which looks like : <br>
 2. We are asked to enter our suggested flavour and our name <br>
 
 ***Enter your choice: 1*** <br>
-***Enter suggested flavour name: Blue Berry*** <br>
-***Enter your name: Santosh*** <br>
-***Blue Berry  has been suggested.*** <br>
+***Enter suggested flavour name: Butter Scotch*** <br>
+***Enter your name: Abilash *** <br>
+***Butter Scotch  has been suggested.*** <br>
 
 3. We can also perform other tasks like adding ice cream to cart, which can be done by pressing 4 and pressing enter <br>
 ***Enter your choice: 4*** <br>
@@ -165,7 +165,7 @@ We observe a menu which looks like : <br>
 4. We can Confirm the addition by pressing 5 and pressing enter <br>
 ***Enter your choice: 5*** <br>
 ***Cart contents:*** <br>
-***(1, 'Chocolate')*** <br>
+***(1, 'Pineapple')*** <br>
 
 ### In manage.py
 The Interface is the same but they have different options. 
@@ -183,9 +183,12 @@ The options being :<br>
 10. ***Exit***
 ***Enter your choice:***<br>
 
-For example, let's confirm if our Blue Berry flavour has been added yet or not
+For example, let's confirm if our (Butter Scotch) flavour has been added yet or not
 1. Press 3 and Press enter <br>
 ***Enter your choice: 3***<br>
 ***Customer suggestions:***<br>
-***(1, 'Blue Berry', 'Santosh')***
+***(1, 'Butter scotch', 'Abilash A')***
+
+
+Github Code Space Link for Live Demo off an Application
 
