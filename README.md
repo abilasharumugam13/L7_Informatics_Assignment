@@ -1,4 +1,4 @@
-# 22I472_Abilash A-L7 InformaticsIntern Assignment-->Application:iceCreamParlour
+# 22I462_Abilash A(PSG College Of Technology)-L7 InformaticsIntern Assignment-->Application:iceCreamParlour
 
 # 📄 Documentation of the Code :
 ## Overview
