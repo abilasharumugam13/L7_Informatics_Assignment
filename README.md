@@ -1,6 +1,10 @@
+#Roll No :22I462
+#Name    :Abilash A
+#Email Id:22i462@psgtech.ac.in
+#Dept    :B Tech(Information Technology)
 # 22I462_Abilash A(PSG College Of Technology)-L7 InformaticsIntern Assignment-->Application:iceCreamParlour
 
-# 📄 Documentation of the Code :
+# 📄 Documentation of the Code :(Github codespace Link--->https://fictional-goggles-q79xqqg5jrwq26px.github.dev/)
 ## Overview
 This project is a simple database management system for an ice cream parlour. It uses "SQLite" to manage data about seasonal flavours, ingredients, customer suggestions, allergens, and a shopping cart. The system is divided into three main parts: database setup (iceCream.py), user interactions (user.py), and management operations (manage.py).
 
@@ -9,7 +13,11 @@ This project is a simple database management system for an ice cream parlour. It
 This script sets up the initial database structure and populates it with some initial data.
 
 ### Key Components:
-Database Connection:
+Database Connection:(using Sqlite3 Database)
+![Screenshot 2024-12-09 145613](https://github.com/user-attachments/assets/e00a0307-f9ad-4763-8c61-dbdedb67f3cf)
+create an database and inserted data
+![Screenshot (25)](https://github.com/user-attachments/assets/24b30209-76d4-43f5-bcda-ebcae2686e2a)
+
 
 Establishes a connection to the SQLite database named---> iceCreamParlour.db.
 Creates a cursor object for executing SQL commands.
@@ -189,6 +197,12 @@ For example, let's confirm if our (Butter Scotch) flavour has been added yet or 
 ***Customer suggestions:***<br>
 ***(1, 'Butter scotch', 'Abilash A')***
 
+Output on Command Line Interface(python user.py)
+![Screenshot (27)](https://github.com/user-attachments/assets/bfebff6a-cc3e-4fa3-b01e-302360e5aff3)
+Add To cart (option )
+![Screenshot 2024-12-09 145613](https://github.com/user-attachments/assets/80a6f15e-035f-4be8-ad43-2e85fd5aad79)
 
-Github Code Space Link for Live Demo off an Application-->https://fictional-goggles-q79xqqg5jrwq26px.github.dev/
+
+
+Github Code Space Link for an Application-->https://fictional-goggles-q79xqqg5jrwq26px.github.dev/
 
